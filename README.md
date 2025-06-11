@@ -46,7 +46,6 @@ We are looking for contributing developers: if you want to get involved but don'
 or would like to volunteer helping maintain this lib, [open a discussion](https://github.com/py-pdf/fpdf2/discussions)!
 
 ## Installation Instructions
-
 ```bash
 pip install fpdf2
 ```
